@@ -1,0 +1,16 @@
+{
+  "name": "woolies-cart-saver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "WooliesCartSaver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
